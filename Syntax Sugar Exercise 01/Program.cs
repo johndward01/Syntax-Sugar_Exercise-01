@@ -58,7 +58,7 @@ namespace Syntax_Sugar_Exercise_01_Answers
             var odds = new int[] { 1, 3, 5, 7, 9 };
             int first1 = odds[0];
 
-            //if (first % 2 != 0)
+            //if (first1 % 2 != 0)
             //{
             //    string answer2 = "It is even.";
             //}
